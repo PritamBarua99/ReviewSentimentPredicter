@@ -1,9 +1,0 @@
-<div>
-  <h1>Sentiment Analysis</h1>
-  <textarea [(ngModel)]="comment" placeholder="Enter your comment"></textarea>
-  <button (click)="getSentiment()">Get Sentiment</button>
-  <div *ngIf="prediction">
-    <p>Sentiment: {{ prediction.prediction ? 'Positive' : 'Negative' }}</p>
-    <p>Confidence: {{ prediction.probability }}</p>
-  </div>
-</div>
