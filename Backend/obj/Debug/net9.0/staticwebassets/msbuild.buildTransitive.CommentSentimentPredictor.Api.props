@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\CommentSentimentPredictor.Api.props" />
+</Project>

@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "Lj+i9/PbZTVvj2DIvSlW/ycpKbPBZglDOChN0YdSE+Q=",
+  "Source": "CommentSentimentPredictor.Api",
+  "BasePath": "_content/CommentSentimentPredictor.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
