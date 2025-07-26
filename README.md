@@ -1,4 +1,5 @@
- Project Goals and Core Features
+ **Project Goals and Core Features:**
+ 
 The primary objective of this project is to create a functional web application capable of analyzing the sentiment of customer reviews. 
 The application is designed to be intuitive, allowing users to input text that simulates real-world customer feedback. Upon submission, the system processes this text to determine its underlying sentiment.
 
